@@ -1,0 +1,9 @@
+PRINT=1
+ASSIGN=2
+PLUS=3
+ID=4
+NUM=5
+WS=6
+'print'=1
+'='=2
+'+'=3
